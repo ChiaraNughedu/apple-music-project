@@ -1,7 +1,5 @@
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
-//import { Container } from 'react-bootstrap'
-//import { useState } from 'react'
 import AppleNavbar from './components/AppleNavbar'
 //import Sidebar from './components/Sidebar'
 //import Novita from './components/Novita'
