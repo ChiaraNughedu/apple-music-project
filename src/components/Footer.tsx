@@ -5,6 +5,7 @@ const Footer: React.FC = () => {
   return (
     <footer className="footer bg-dark text-light py-4 mt-5">
       <Container>
+      <hr className="text-light" />
         <Row className="align-items-center">
           <Col xs={12} md={6} className="text-center text-md-start mb-3 mb-md-0">
             <span className="me-3">Italia</span>

@@ -14,7 +14,7 @@ import Footer from "./Footer";
 
 const Novita: React.FC = () => {
   return (
-    <Container className="mt-4">
+    <Container className="mt-1">
       <h3 className="text-light mb-4">Novità</h3>
       <hr className="text-light" />
       <Row className="justify-content-center justify-content-md-start">
